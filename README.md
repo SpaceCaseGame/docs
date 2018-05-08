@@ -8,3 +8,5 @@ This repo stores some general docs for the SpaceCase Game Open Source code.
 
 [Code Design](./design.md)
 
+[Initial Plan](./plan.md)
+
