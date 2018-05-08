@@ -20,4 +20,7 @@ The initial testing URL will be hosted as spacecase.netpurgatory.com until a rea
 
 DNS and registration will be done with namecheap.com
 
+## Blockchain compinents
+
+Certain parts of the game will need to interact with smart contracts on a EVM-like blockchain.  Ethereum and QTUM are likely candidates.
 
